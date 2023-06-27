@@ -8,7 +8,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/microsoft/ML-For-Beginners.svg?style=social&label=Fork)](https://GitHub.com/microsoft/ML-For-Beginners/network/)
 [![GitHub stars](https://img.shields.io/github/stars/microsoft/ML-For-Beginners.svg?style=social&label=Star)](https://GitHub.com/microsoft/ML-For-Beginners/stargazers/)
 
-# Machine Learning for Beginners - A Curriculum
+# Machine Learning for Me - Only for learning
 
 > 🌍 Travel around the world as we explore Machine Learning by means of world cultures 🌍
 
@@ -41,24 +41,6 @@ Travel with us around the world as we apply these classic techniques to data fro
 > For further study, we recommend following these [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/k7o7tg1gp306q4?WT.mc_id=academic-77952-leestott) modules and learning paths.
 
 **Teachers**, we have [included some suggestions](for-teachers.md) on how to use this curriculum.
-
----
-
-## Video walkthroughs
-
-Some of the lessons are available as short form video. You can find all these in-line in the lessons, or on the [ML for Beginners playlist on the Microsoft Developer YouTube channel](https://aka.ms/ml-beginners-videos) by clicking the image below.
-
-[![ML for beginners banner](./ml-for-beginners-video-banner.png)](https://aka.ms/ml-beginners-videos)
-
----
-
-## Meet the Team
-
-[![Promo video](ml.gif)](https://youtu.be/Tj1XWrDSYJU "Promo video")
-
-**Gif by** [Mohit Jaisal](https://linkedin.com/in/mohitjaisal)
-
-> 🎥 Click the image above for a video about the project and the folks who created it!
 
 ---
 
